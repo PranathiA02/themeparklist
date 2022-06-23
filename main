@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 struct ride{
     string name;
     int age_low_limit;
@@ -34,10 +33,6 @@ void new_ride(ride **head_ref,string str,int age1,int age2,int price){
     head_ref=head_ref->next;
     
     }return expense;}
-
-
-
-
 int main() {
   int ur_age;
   int ur_expense;
