@@ -1,3 +1,4 @@
+//comment
 #include <iostream>
 using namespace std;
 struct ride{
@@ -72,5 +73,7 @@ int main() {
   cout<<"Total Expense : "<<"₹"<<ur_expense<<endl;
   cout<<"\n";
   cout<<"*Enjoy Theme Park with these Rides *";
+
+
 
 }
